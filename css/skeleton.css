@@ -196,12 +196,14 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #B62209;
-  text-decoration: line-through; }
-a:hover {
   color: #1A1A1A;
   background-color:#FFFF99;
-  text-decoration: none; }
+  text-decoration: none;
+ }
+a:hover {
+  color: #B62209;
+  background-color: #FFFFFF;
+  text-decoration: line-through;}
 
 
 /* Buttons
