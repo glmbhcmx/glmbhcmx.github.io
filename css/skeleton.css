@@ -124,6 +124,17 @@
 }
 
 
+/* Ribbon
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.ribbon {
+  position: fixed;
+  width:130px;
+  height:130px;
+  margin-left: 20px;
+  top: 0; 
+  z-index: 2; }
+
+
 /* Base Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
