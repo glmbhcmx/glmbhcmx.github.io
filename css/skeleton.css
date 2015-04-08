@@ -193,6 +193,9 @@ p {
   transform:rotate(-180deg); /* future */
   position:absolute; } 
 
+.blue {
+  color: #3333FF; }
+
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
