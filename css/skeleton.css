@@ -134,7 +134,7 @@ html {
 body {
   background-color: #FFFFFF;
   font-size: 1.75em; /* currently ems cause chrome bug misinterpreting rems on body element */
-  line-height: 1.25em;
+  line-height: 1.5em;
   font-weight: 400;
   font-family: "Droid Serif", serif;
   color: #1A1A1A; }
